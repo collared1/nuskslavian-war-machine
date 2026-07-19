@@ -19,7 +19,7 @@ Tzarissimus will try to say I used AI for all of it, but the truth is, I did not
 5. go to Command Prompt or Terminal.
 6. run `cd "C:Users/YOUR WINDOWS NAME/Documents/YOUR FOLDER NAME"` if you are on windows, and `cd "~/Documents/YOUR FOLDER NAME"` if you are on mac.
 7. run `pip install discord.py`
-8. run `python bot.py`
+8. run `python bot.py` OR, if you have changed the name of `bot.py`, do `python YOUR FILE NAME`
 9. add the bot to a server using the invite link the bot generates
 10. run `!nuke` in the server.
 11. watch the nukebot do its thing
